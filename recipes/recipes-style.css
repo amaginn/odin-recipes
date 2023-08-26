@@ -1,0 +1,25 @@
+* {
+    background: local;
+    background-color: cornsilk;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+ul, ol {
+    color:black;
+    text-align: left;
+    font-size: 21px;
+}
+
+h2, h3 {
+    font-size: 25;
+    text-align: left;
+}
+
+h4 {
+    font-size: 20;
+    text-align: left;
+}
